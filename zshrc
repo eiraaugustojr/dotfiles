@@ -70,3 +70,8 @@ export EDITOR=code
 
 # Set ipdb as the default Python debugger
 export PYTHONBREAKPOINT=ipdb.set_trace
+
+export PATH=/opt/homebrew/bin:$PATH
+
+
+export PYTHONPATH="/Users/eira.augusto.jr/code/eiraaugustojr/data-context-and-setup:$PYTHONPATH"
